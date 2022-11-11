@@ -1,7 +1,8 @@
-What is NODE.JS?
+  What is NODE.JS?
 Nodejs is an open source,cross platform backend js runtime environment where js code can be executed outside the web browser.
 nodejs operates on single thread,non-blocking io codes.
 it is used for easily building fast and scalable network applications.
+
 2. what is NPM?
 NPM stands for node package manager.its the default package manager for js runtime nodejs.
 npm consists of two parts-1st is CLI(command-line-interface) which is used for publishing and downloading packages.2nd is an online repository which containes the js packages.
